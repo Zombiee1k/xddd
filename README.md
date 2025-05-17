@@ -1,11 +1,17 @@
 Muy buenas Ainis
 
-Necesitarás el mensaje codificado, además de una key
+En este github podras encontrar un mensaje codificado en algoritmo???? Preguntale a chat gpt jiji, pista, usa una key simetrica y es conocido
 
-Para decodificarlo te recomiendo dejar todas las opciones de la web en default, no toques nada 
+Te recomiendo usar la web que he pasado por whatsapp
 
-En este repositorio iba a meter un zip con contraseña, pero recordemos que NO podias abrirlos no se por que coño
+En este github podrás encontrar la KEY, pero está encriptada tambien :c 
 
-Asi que simplemente te he dejado un .txt con otro enlace
+Tienes otro archivo con esta KEY encriptada, pero esta incompleta :c 
+
+Le faltan caracteres al inicio :) revisa el walloftext del inicio a ver si hay alguna letra MÁS GRANDE que otras :) 
+
+El orden? Nu se, prueba
+
+Nu
 
 Disfruta
