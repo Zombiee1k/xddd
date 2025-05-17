@@ -4,7 +4,7 @@ En este github podras encontrar un mensaje codificado en algoritmo???? Preguntal
 
 Te recomiendo usar la web que he pasado por whatsapp
 
-En este github podrás encontrar la KEY, pero está encriptada tambien :c 
+En este github podrás encontrar la KEY, pero está encriptada tambien con otro algoritmo distinto JIJI :c 
 
 Tienes otro archivo con esta KEY encriptada, pero esta incompleta :c 
 
