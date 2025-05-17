@@ -10,7 +10,7 @@ Tienes otro archivo con esta KEY encriptada, pero esta incompleta :c
 
 Le faltan caracteres al inicio :) revisa el walloftext del inicio a ver si hay alguna letra MÁS GRANDE que otras :) 
 
-El orden? Nu se, prueba
+El orden? Nu se, prueba a ver si alguna key tiene mas sentido que las demás 
 
 Nu
 
